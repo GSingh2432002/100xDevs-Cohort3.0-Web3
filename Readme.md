@@ -14,3 +14,4 @@ Simply run the following commands in your terminal to clone the repository and s
 
 ```bash
 git clone https://github.com/GSingh2432002/100xDevs-Cohort3.0-Web3.git
+```

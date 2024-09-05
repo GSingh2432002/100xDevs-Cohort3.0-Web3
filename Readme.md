@@ -13,5 +13,5 @@ Eager to dive into the code? Here's how you can get started:
 Simply run the following commands in your terminal to clone the repository and start building locally:
 
 ```bash
-[git clone https://github.com/GSingh2432002/100xDevs-Cohort3.0-Web3.git](https://github.com/GSingh2432002/100xDevs-Cohort3.0-Web3.git)
+https://github.com/GSingh2432002/100xDevs-Cohort3.0-Web3.git
 ```

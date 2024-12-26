@@ -1,4 +1,4 @@
-# 🚀 100xDevs Cohort 3.0 - Web Dev + DevOps 
+# 🚀 100xDevs Cohort 3.0 - Web3 
 
 Welcome to my notes repo of **100xDevs Cohort 3.0** by **Harkirat Singh**!  
 This repository is your go-to resource for:

@@ -117,15 +117,15 @@ Hashing transforms input data of any size into a fixed-size string of characters
 - A unique number that miners must find to produce a valid hash.
 - Used only once, it ensures the resulting hash satisfies the blockchain's difficulty conditions.
 
-### Finding Nonce
+## Finding Nonce
 
-#### Miners and Compute Power
+### Miners and Compute Power
 
 - Miners produce blocks in the blockchain.
 - The probability of producing the next block and earning the reward increases with more compute power.
 - Compute power is needed to calculate the correct nonce.
 
-#### Nonce and Proof of Work (PoW)
+### Nonce and Proof of Work (PoW)
 
 - The nonce is a number that, when added to the block data and hashed, produces a hash meeting the network's difficulty criteria.
 - The process of finding this nonce is known as Proof of Work (PoW).

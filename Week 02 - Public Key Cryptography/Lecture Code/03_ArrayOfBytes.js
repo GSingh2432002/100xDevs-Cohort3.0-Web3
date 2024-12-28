@@ -1,0 +1,2 @@
+const bytes = [202, 244, 1, 23]; // is considered an array of bytes because the values in the array (202, 244, 1, 23) all fall within the range of a byte in computer systems (0–255).
+console.log(bytes);
